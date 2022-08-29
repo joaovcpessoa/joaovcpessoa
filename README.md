@@ -1,12 +1,11 @@
 ## Olá, me chamo João Vítor, futuro desenvolvedor de software.
-
-
+  
+ <div align="center">
   <a href="https://github.com/lLittleJohnl">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&langs_count=7&theme=tokyonight"/>
-
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -29,4 +28,14 @@
   <a href = "mailto:joaovitorpessoa10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/lLittleJohnl/lLittleJohnl/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+ ##
+
+<div align="center">
+<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/1.gif"/>
+<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/2.gif"/>
+<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/3.gif"/>
+<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/4.gif"/>
+<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/5.gif"/>
 </div>
