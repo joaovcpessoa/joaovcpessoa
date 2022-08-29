@@ -1,10 +1,11 @@
 ## Olá, me chamo João Vítor, futuro desenvolvedor de software.
 
-<div align="center">
+
   <a href="https://github.com/lLittleJohnl">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&langs_count=7&theme=tokyonight"/> 
-</div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
