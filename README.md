@@ -1,11 +1,9 @@
-## Olá, me chamo João Vítor, futuro desenvolvedor de software.
-  
+
  <div align="center">
   <a href="https://github.com/lLittleJohnl">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&langs_count=7&theme=radical"/>
-</div>  
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&langs_count=7&theme=radical"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -14,7 +12,6 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="right" alt="Avatar" height="150" style="border-radius:50px;" src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/download20220202111313.png"> 
- 
 </div>
   
   ##
