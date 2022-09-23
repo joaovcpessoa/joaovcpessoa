@@ -1,7 +1,6 @@
 ## Olá, me chamo João Vítor, engenheiro de Telecomunicações e programador.
 <div>
   <a href="https://github.com/lLittleJohnl">
-  <img src="https://github-readme-stats.vercel.app/api?username=lLittleJohnl&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLittleJohnl&layout=compact&theme=radical"
 </div>
 
