@@ -18,16 +18,4 @@
   <a href="https://www.youtube.com/channel/UCAy8pGbbNND0_EMUSPDKZOg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/lLittleJohnl/lLittleJohnl/blob/output/github-contribution-grid-snake.svg)
-</div>
-
- ##
-
-<div align="center">
-<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/1.gif"/>
-<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/2.gif"/>
-<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/3.gif"/>
-<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/4.gif"/>
-<img src="https://github.com/lLittleJohnl/lLittleJohnl/blob/main/5.gif"/>
 </div>
