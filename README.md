@@ -1,4 +1,4 @@
-![logo](https://github.com/lLittleJohnl/lLittleJohnl/blob/main/github_logo.png)
+![logo](https://github.com/lLittleJohnl/lLittleJohnl/blob/main/github_read_me.png)
 
 <h1 align="center">Hi 👋, I'm João Vítor</h1>
 <h3 align="center">A passionate Tecnology</h3>
