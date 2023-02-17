@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/lLittleJohnl/lLittleJohnl/blob/main/github_read_me.png)
 ## Welcome, this is my code sanctuary, where my ideas come to life, or rather logs and errors.
 
 <div style="display: inline_block"><br>
