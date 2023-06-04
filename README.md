@@ -10,6 +10,7 @@ Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para 
 
 - Linguagens de programação: Python, JavaScript, Perl
 - Bancos de dados: MySQL
+- Virtualização: Docker e Kubernetes
 - Desenvolvimento web: HTML, CSS, Node.js
 - Controle de versão: Git, GitHub
 - Metodologias ágeis: Scrum
