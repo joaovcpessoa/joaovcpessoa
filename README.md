@@ -1,20 +1,27 @@
-![logo](https://github.com/lLittleJohnl/lLittleJohnl/blob/main/github_read_me.png)
+# João Vitor
 
-<h1 align="center">Hi 👋, I'm João Vítor</h1>
-<h3 align="center">A passionate Tecnology</h3>
+Engenheiro de Telecomunicações e entusiasta em programação.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lLittleJohnl&label=Profile%20views&color=0e75b6&style=flat" alt="Little John" /> </p>
+## Sobre mim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-pessoa-19322617b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-</p>
+Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para tratamento de falhas de rede, reduzindo horas de trabalho para o time de operação.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a>  
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Perl" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> </a> </p>
+## Habilidades
+
+- Linguagens de programação: Python, JavaScript, Perl
+- Bancos de dados: MySQL
+- Desenvolvimento web: HTML, CSS, Node.js
+- Controle de versão: Git, GitHub
+- Metodologias ágeis: Scrum
+
+## Projetos Destacados
+
+Aqui estão alguns dos meus projetos destacados. Para obter uma lista completa, verifique os repositórios neste perfil.
+
+- [Projeto 1](link_projeto): Breve descrição do projeto e principais recursos.
+
+## Contato
+
+- E-mail: joaovitorpessoa10@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joaovitorpessoa/
+
