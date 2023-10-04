@@ -9,11 +9,10 @@ Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para 
 ## Habilidades
 
 - Linguagens de programação: Python, JavaScript, Perl
-- Bancos de dados: MySQL
+- Bancos de dados: MySQL, PostgreSQL, MongoDB, Oracle, IBM DB2
 - Virtualização: Docker e Kubernetes
 - Desenvolvimento web: HTML, CSS, Node.js
 - Controle de versão: Git, GitHub
-- Metodologias ágeis: Scrum
 
 ## Projetos Destacados
 
