@@ -14,10 +14,6 @@ Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para 
 - Desenvolvimento web: HTML, CSS, Node.js
 - Controle de versão: Git, GitHub
 
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos destacados. Para obter uma lista completa, verifique os repositórios neste perfil.
-
 ## Contato
 
 - E-mail: joaovitorpessoa10@gmail.com
