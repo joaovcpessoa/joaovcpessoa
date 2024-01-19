@@ -4,7 +4,7 @@ Engenheiro de Telecomunicações e entusiasta em programação.
 
 ## Sobre mim
 
-Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para tratamento de falhas de rede, aumentando a disponibilidade da rede e reduzindo horas de trabalho para o time de operação.
+Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para tratamento de falhas de rede, aumentando a disponibilidade da rede.
 
 ## Habilidades
 
