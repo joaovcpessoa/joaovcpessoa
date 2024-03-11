@@ -6,13 +6,21 @@ Engenheiro de Telecomunicações e entusiasta em programação.
 
 Atualmente trabalhando em desenvolvimento de troubleshootings automáticos para tratamento de falhas de rede, aumentando a disponibilidade da rede.
 
-## Habilidades
+## Foco
+
+- Engenharia de dados
+- Análise de Dados
+- Automações
+- Machine Learning
+
+## Ferramentas
 
 - Linguagens de programação: Python, JavaScript, Perl
-- Bancos de dados: PostgreSQL, Oracle, IBM DB2
+- Bancos de dados: Oracle, IBM DB2, Redis, PostgreSQL
 - Virtualização: Docker e Kubernetes
-- Desenvolvimento web: HTML, CSS, Node.js
+- Desenvolvimento web: HTML5, CSS3, Node.js
 - Controle de versão: Git, GitHub
+- Apache Airflow
 
 ## Contato
 
