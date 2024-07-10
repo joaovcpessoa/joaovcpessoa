@@ -1,6 +1,6 @@
 # João Vitor
 
-Engenheiro de Telecomunicações e entusiasta em programação.
+Engenheiro de Telecomunicações e programador.
 
 ## Sobre mim
 
