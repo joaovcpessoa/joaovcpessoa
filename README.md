@@ -3,7 +3,7 @@ Atualmente trabalhando em desenvolvimento de automações para tratamento de fal
 ## Tecnologias
 
 - Linguagens de programação: Python, JavaScript, Perl
-- Framework: Node.Js
+- Framework: Node.Js, Node-RED
 - Bancos de dados: Oracle, IBM DB2, MySQL, Redis
 - Virtualização: VM Linux, Docker, Kubernetes
 - Controle de versão: Git
