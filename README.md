@@ -5,4 +5,4 @@ Aqui você não vai encontrar apenas repositórios. Vai encontrar experimentos, 
 Seja bem-vindo ao laboratório onde a curiosidade é o compilador e a complexidade é só um bug esperando para ser entendido.
 
 ⚙️ Projetos? Tem.
-💡 Ideias fora do comum? Também. CUidado onde pisa.
+💡 Ideias fora do comum? Também. Cuidado onde pisa.
